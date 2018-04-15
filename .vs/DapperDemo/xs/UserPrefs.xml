@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{49BB3F64-DB32-4595-AF6C-ED30750A5CA4}|Default">
+  <MonoDevelop.Ide.ItemProperties.DapperDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DapperDemo/app.config">
+    <Files>
+      <File FileName="DapperDemo/Program.cs" Line="10" Column="38" />
+      <File FileName="DapperDemo/Users.cs" Line="4" Column="23" />
+      <File FileName="../../.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/web.config.transform" Line="1" Column="1" />
+      <File FileName="DapperDemo/DapperHelper.cs" Line="107" Column="10" />
+      <File FileName="DapperDemo/app.config" Line="10" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
